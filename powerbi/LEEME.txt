@@ -1,0 +1,1 @@
+Coloca aqui tablero_volatilidad.pbix (el archivo que reconstruiste en Power BI Desktop).

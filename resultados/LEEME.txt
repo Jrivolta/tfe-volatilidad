@@ -1,0 +1,2 @@
+resultados_metricas.csv y resultados_completos.json se generan al ejecutar el script principal.
+Sube ambos archivos a esta carpeta tras la ejecucion local.
