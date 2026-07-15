@@ -1,0 +1,49 @@
+﻿Horizonte,Activo,Empresa,Modelo,Accuracy,Precision,Recall,F1_macro
+Regimen actual,AAPL,Apple,Persistencia,0.9346,0.9362,0.936,0.9361
+Regimen actual,AAPL,Apple,Regresion Logistica,0.9199,0.9207,0.924,0.9218
+Regimen actual,AAPL,Apple,Arbol de Decision,0.9332,0.9349,0.9345,0.9346
+Regimen actual,AAPL,Apple,Random Forest,0.9346,0.9365,0.9358,0.9361
+Regimen actual,AAPL,Apple,XGBoost,0.9319,0.9348,0.9329,0.9338
+Regimen actual,AAPL,Apple,SVM,0.8598,0.8769,0.8527,0.8606
+Regimen actual,AMZN,Amazon,Persistencia,0.9252,0.8871,0.8871,0.8871
+Regimen actual,AMZN,Amazon,Regresion Logistica,0.9172,0.8952,0.8498,0.8685
+Regimen actual,AMZN,Amazon,Arbol de Decision,0.9266,0.8891,0.887,0.888
+Regimen actual,AMZN,Amazon,Random Forest,0.9239,0.9036,0.8729,0.8863
+Regimen actual,AMZN,Amazon,XGBoost,0.9172,0.8805,0.8338,0.8537
+Regimen actual,AMZN,Amazon,SVM,0.9025,0.8736,0.8413,0.8517
+Regimen actual,GOOGL,Alphabet,Persistencia,0.9346,0.8811,0.8825,0.8818
+Regimen actual,GOOGL,Alphabet,Regresion Logistica,0.9065,0.871,0.8495,0.8508
+Regimen actual,GOOGL,Alphabet,Arbol de Decision,0.9332,0.8782,0.8766,0.8774
+Regimen actual,GOOGL,Alphabet,Random Forest,0.9332,0.8764,0.8804,0.8782
+Regimen actual,GOOGL,Alphabet,XGBoost,0.9306,0.8734,0.8773,0.8752
+Regimen actual,GOOGL,Alphabet,SVM,0.8945,0.8459,0.8741,0.8552
+Regimen actual,TSLA,Tesla,Persistencia,0.9252,0.8955,0.8955,0.8955
+Regimen actual,TSLA,Tesla,Regresion Logistica,0.9239,0.8967,0.9034,0.8999
+Regimen actual,TSLA,Tesla,Arbol de Decision,0.8812,0.8371,0.8252,0.8307
+Regimen actual,TSLA,Tesla,Random Forest,0.9159,0.8797,0.8545,0.8659
+Regimen actual,TSLA,Tesla,XGBoost,0.9279,0.8986,0.89,0.8942
+Regimen actual,TSLA,Tesla,SVM,0.9025,0.8519,0.856,0.8536
+Regimen prediccion 21,AAPL,Apple,Persistencia,0.5013,0.5041,0.505,0.5038
+Regimen prediccion 21,AAPL,Apple,Regresion Logistica,0.345,0.2315,0.3577,0.2287
+Regimen prediccion 21,AAPL,Apple,Arbol de Decision,0.3895,0.5115,0.4095,0.3258
+Regimen prediccion 21,AAPL,Apple,Random Forest,0.345,0.4866,0.35,0.2191
+Regimen prediccion 21,AAPL,Apple,XGBoost,0.3679,0.3966,0.3692,0.2857
+Regimen prediccion 21,AAPL,Apple,SVM,0.4434,0.4506,0.4162,0.4085
+Regimen prediccion 21,AMZN,Amazon,Persistencia,0.558,0.3639,0.363,0.3634
+Regimen prediccion 21,AMZN,Amazon,Regresion Logistica,0.5162,0.3686,0.3844,0.3553
+Regimen prediccion 21,AMZN,Amazon,Arbol de Decision,0.4164,0.3297,0.3624,0.3209
+Regimen prediccion 21,AMZN,Amazon,Random Forest,0.6038,0.3664,0.3599,0.3548
+Regimen prediccion 21,AMZN,Amazon,XGBoost,0.5687,0.3524,0.3497,0.3491
+Regimen prediccion 21,AMZN,Amazon,SVM,0.5512,0.3675,0.391,0.3659
+Regimen prediccion 21,GOOGL,Alphabet,Persistencia,0.6213,0.3654,0.3701,0.3671
+Regimen prediccion 21,GOOGL,Alphabet,Regresion Logistica,0.655,0.3863,0.4622,0.4032
+Regimen prediccion 21,GOOGL,Alphabet,Arbol de Decision,0.5728,0.4222,0.4556,0.4138
+Regimen prediccion 21,GOOGL,Alphabet,Random Forest,0.469,0.4212,0.4335,0.3606
+Regimen prediccion 21,GOOGL,Alphabet,XGBoost,0.504,0.4374,0.459,0.3878
+Regimen prediccion 21,GOOGL,Alphabet,SVM,0.3935,0.3704,0.3571,0.2947
+Regimen prediccion 21,TSLA,Tesla,Persistencia,0.5957,0.4227,0.422,0.4223
+Regimen prediccion 21,TSLA,Tesla,Regresion Logistica,0.6038,0.2452,0.337,0.2806
+Regimen prediccion 21,TSLA,Tesla,Arbol de Decision,0.5337,0.3734,0.3741,0.3736
+Regimen prediccion 21,TSLA,Tesla,Random Forest,0.6065,0.5396,0.3547,0.3091
+Regimen prediccion 21,TSLA,Tesla,XGBoost,0.5836,0.394,0.3865,0.3871
+Regimen prediccion 21,TSLA,Tesla,SVM,0.5809,0.2428,0.3404,0.2833

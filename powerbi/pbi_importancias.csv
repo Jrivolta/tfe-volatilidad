@@ -1,0 +1,81 @@
+﻿Horizonte,Activo,Atributo,Importancia
+Regimen actual,AAPL,ret_lag1,0.0
+Regimen actual,AAPL,ret_lag2,0.0018
+Regimen actual,AAPL,ret_lag3,0.0
+Regimen actual,AAPL,ret_lag4,0.0045
+Regimen actual,AAPL,ret_lag5,0.0002
+Regimen actual,AAPL,sma_5,0.0017
+Regimen actual,AAPL,sma_20,0.0028
+Regimen actual,AAPL,rsi_14,0.0033
+Regimen actual,AAPL,vol_lag1,0.9853
+Regimen actual,AAPL,vol_rel,0.0004
+Regimen actual,AMZN,ret_lag1,0.0035
+Regimen actual,AMZN,ret_lag2,0.0111
+Regimen actual,AMZN,ret_lag3,0.0152
+Regimen actual,AMZN,ret_lag4,0.0148
+Regimen actual,AMZN,ret_lag5,0.0079
+Regimen actual,AMZN,sma_5,0.0021
+Regimen actual,AMZN,sma_20,0.0009
+Regimen actual,AMZN,rsi_14,0.0016
+Regimen actual,AMZN,vol_lag1,0.9412
+Regimen actual,AMZN,vol_rel,0.0017
+Regimen actual,GOOGL,ret_lag1,0.0001
+Regimen actual,GOOGL,ret_lag2,-0.0
+Regimen actual,GOOGL,ret_lag3,0.0
+Regimen actual,GOOGL,ret_lag4,0.0
+Regimen actual,GOOGL,ret_lag5,0.0
+Regimen actual,GOOGL,sma_5,0.0018
+Regimen actual,GOOGL,sma_20,0.002
+Regimen actual,GOOGL,rsi_14,0.0
+Regimen actual,GOOGL,vol_lag1,0.9961
+Regimen actual,GOOGL,vol_rel,0.0
+Regimen actual,TSLA,ret_lag1,0.0017
+Regimen actual,TSLA,ret_lag2,0.0
+Regimen actual,TSLA,ret_lag3,0.0035
+Regimen actual,TSLA,ret_lag4,0.0
+Regimen actual,TSLA,ret_lag5,0.0
+Regimen actual,TSLA,sma_5,0.0
+Regimen actual,TSLA,sma_20,0.0
+Regimen actual,TSLA,rsi_14,0.0041
+Regimen actual,TSLA,vol_lag1,0.9883
+Regimen actual,TSLA,vol_rel,0.0024
+Regimen prediccion 21,AAPL,ret_lag1,0.0
+Regimen prediccion 21,AAPL,ret_lag2,0.0
+Regimen prediccion 21,AAPL,ret_lag3,0.0
+Regimen prediccion 21,AAPL,ret_lag4,0.0
+Regimen prediccion 21,AAPL,ret_lag5,0.0
+Regimen prediccion 21,AAPL,sma_5,0.0
+Regimen prediccion 21,AAPL,sma_20,0.0
+Regimen prediccion 21,AAPL,rsi_14,0.0
+Regimen prediccion 21,AAPL,vol_lag1,0.0
+Regimen prediccion 21,AAPL,vol_rel,0.0
+Regimen prediccion 21,AMZN,ret_lag1,0.0
+Regimen prediccion 21,AMZN,ret_lag2,0.0
+Regimen prediccion 21,AMZN,ret_lag3,0.0
+Regimen prediccion 21,AMZN,ret_lag4,0.0
+Regimen prediccion 21,AMZN,ret_lag5,0.0
+Regimen prediccion 21,AMZN,sma_5,0.0
+Regimen prediccion 21,AMZN,sma_20,0.0
+Regimen prediccion 21,AMZN,rsi_14,0.0
+Regimen prediccion 21,AMZN,vol_lag1,0.0
+Regimen prediccion 21,AMZN,vol_rel,0.0
+Regimen prediccion 21,GOOGL,ret_lag1,0.0
+Regimen prediccion 21,GOOGL,ret_lag2,0.0
+Regimen prediccion 21,GOOGL,ret_lag3,0.0
+Regimen prediccion 21,GOOGL,ret_lag4,0.0
+Regimen prediccion 21,GOOGL,ret_lag5,0.0
+Regimen prediccion 21,GOOGL,sma_5,0.0359
+Regimen prediccion 21,GOOGL,sma_20,0.1578
+Regimen prediccion 21,GOOGL,rsi_14,0.2244
+Regimen prediccion 21,GOOGL,vol_lag1,0.582
+Regimen prediccion 21,GOOGL,vol_rel,0.0
+Regimen prediccion 21,TSLA,ret_lag1,0.0283
+Regimen prediccion 21,TSLA,ret_lag2,0.016
+Regimen prediccion 21,TSLA,ret_lag3,0.0441
+Regimen prediccion 21,TSLA,ret_lag4,0.0632
+Regimen prediccion 21,TSLA,ret_lag5,0.0467
+Regimen prediccion 21,TSLA,sma_5,0.1851
+Regimen prediccion 21,TSLA,sma_20,0.194
+Regimen prediccion 21,TSLA,rsi_14,0.205
+Regimen prediccion 21,TSLA,vol_lag1,0.2128
+Regimen prediccion 21,TSLA,vol_rel,0.0049

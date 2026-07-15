@@ -1,0 +1,433 @@
+﻿Horizonte,Activo,Modelo,Regimen_Real,Regimen_Predicho,Conteo
+Regimen actual,AAPL,Persistencia,Bajo,Bajo,199
+Regimen actual,AAPL,Persistencia,Bajo,Medio,12
+Regimen actual,AAPL,Persistencia,Bajo,Alto,0
+Regimen actual,AAPL,Persistencia,Medio,Bajo,10
+Regimen actual,AAPL,Persistencia,Medio,Medio,267
+Regimen actual,AAPL,Persistencia,Medio,Alto,14
+Regimen actual,AAPL,Persistencia,Alto,Bajo,1
+Regimen actual,AAPL,Persistencia,Alto,Medio,12
+Regimen actual,AAPL,Persistencia,Alto,Alto,234
+Regimen actual,AAPL,Regresion Logistica,Bajo,Bajo,199
+Regimen actual,AAPL,Regresion Logistica,Bajo,Medio,12
+Regimen actual,AAPL,Regresion Logistica,Bajo,Alto,0
+Regimen actual,AAPL,Regresion Logistica,Medio,Bajo,13
+Regimen actual,AAPL,Regresion Logistica,Medio,Medio,253
+Regimen actual,AAPL,Regresion Logistica,Medio,Alto,25
+Regimen actual,AAPL,Regresion Logistica,Alto,Bajo,1
+Regimen actual,AAPL,Regresion Logistica,Alto,Medio,9
+Regimen actual,AAPL,Regresion Logistica,Alto,Alto,237
+Regimen actual,AAPL,Arbol de Decision,Bajo,Bajo,200
+Regimen actual,AAPL,Arbol de Decision,Bajo,Medio,11
+Regimen actual,AAPL,Arbol de Decision,Bajo,Alto,0
+Regimen actual,AAPL,Arbol de Decision,Medio,Bajo,12
+Regimen actual,AAPL,Arbol de Decision,Medio,Medio,269
+Regimen actual,AAPL,Arbol de Decision,Medio,Alto,10
+Regimen actual,AAPL,Arbol de Decision,Alto,Bajo,2
+Regimen actual,AAPL,Arbol de Decision,Alto,Medio,15
+Regimen actual,AAPL,Arbol de Decision,Alto,Alto,230
+Regimen actual,AAPL,Random Forest,Bajo,Bajo,199
+Regimen actual,AAPL,Random Forest,Bajo,Medio,12
+Regimen actual,AAPL,Random Forest,Bajo,Alto,0
+Regimen actual,AAPL,Random Forest,Medio,Bajo,10
+Regimen actual,AAPL,Random Forest,Medio,Medio,268
+Regimen actual,AAPL,Random Forest,Medio,Alto,13
+Regimen actual,AAPL,Random Forest,Alto,Bajo,1
+Regimen actual,AAPL,Random Forest,Alto,Medio,13
+Regimen actual,AAPL,Random Forest,Alto,Alto,233
+Regimen actual,AAPL,XGBoost,Bajo,Bajo,198
+Regimen actual,AAPL,XGBoost,Bajo,Medio,13
+Regimen actual,AAPL,XGBoost,Bajo,Alto,0
+Regimen actual,AAPL,XGBoost,Medio,Bajo,10
+Regimen actual,AAPL,XGBoost,Medio,Medio,268
+Regimen actual,AAPL,XGBoost,Medio,Alto,13
+Regimen actual,AAPL,XGBoost,Alto,Bajo,0
+Regimen actual,AAPL,XGBoost,Alto,Medio,15
+Regimen actual,AAPL,XGBoost,Alto,Alto,232
+Regimen actual,AAPL,SVM,Bajo,Bajo,160
+Regimen actual,AAPL,SVM,Bajo,Medio,51
+Regimen actual,AAPL,SVM,Bajo,Alto,0
+Regimen actual,AAPL,SVM,Medio,Bajo,13
+Regimen actual,AAPL,SVM,Medio,Medio,261
+Regimen actual,AAPL,SVM,Medio,Alto,17
+Regimen actual,AAPL,SVM,Alto,Bajo,0
+Regimen actual,AAPL,SVM,Alto,Medio,24
+Regimen actual,AAPL,SVM,Alto,Alto,223
+Regimen actual,AMZN,Persistencia,Bajo,Bajo,40
+Regimen actual,AMZN,Persistencia,Bajo,Medio,8
+Regimen actual,AMZN,Persistencia,Bajo,Alto,0
+Regimen actual,AMZN,Persistencia,Medio,Bajo,8
+Regimen actual,AMZN,Persistencia,Medio,Medio,186
+Regimen actual,AMZN,Persistencia,Medio,Alto,20
+Regimen actual,AMZN,Persistencia,Alto,Bajo,0
+Regimen actual,AMZN,Persistencia,Alto,Medio,20
+Regimen actual,AMZN,Persistencia,Alto,Alto,467
+Regimen actual,AMZN,Regresion Logistica,Bajo,Bajo,34
+Regimen actual,AMZN,Regresion Logistica,Bajo,Medio,14
+Regimen actual,AMZN,Regresion Logistica,Bajo,Alto,0
+Regimen actual,AMZN,Regresion Logistica,Medio,Bajo,4
+Regimen actual,AMZN,Regresion Logistica,Medio,Medio,191
+Regimen actual,AMZN,Regresion Logistica,Medio,Alto,19
+Regimen actual,AMZN,Regresion Logistica,Alto,Bajo,0
+Regimen actual,AMZN,Regresion Logistica,Alto,Medio,25
+Regimen actual,AMZN,Regresion Logistica,Alto,Alto,462
+Regimen actual,AMZN,Arbol de Decision,Bajo,Bajo,40
+Regimen actual,AMZN,Arbol de Decision,Bajo,Medio,8
+Regimen actual,AMZN,Arbol de Decision,Bajo,Alto,0
+Regimen actual,AMZN,Arbol de Decision,Medio,Bajo,8
+Regimen actual,AMZN,Arbol de Decision,Medio,Medio,185
+Regimen actual,AMZN,Arbol de Decision,Medio,Alto,21
+Regimen actual,AMZN,Arbol de Decision,Alto,Bajo,0
+Regimen actual,AMZN,Arbol de Decision,Alto,Medio,18
+Regimen actual,AMZN,Arbol de Decision,Alto,Alto,469
+Regimen actual,AMZN,Random Forest,Bajo,Bajo,37
+Regimen actual,AMZN,Random Forest,Bajo,Medio,11
+Regimen actual,AMZN,Random Forest,Bajo,Alto,0
+Regimen actual,AMZN,Random Forest,Medio,Bajo,4
+Regimen actual,AMZN,Random Forest,Medio,Medio,192
+Regimen actual,AMZN,Random Forest,Medio,Alto,18
+Regimen actual,AMZN,Random Forest,Alto,Bajo,0
+Regimen actual,AMZN,Random Forest,Alto,Medio,24
+Regimen actual,AMZN,Random Forest,Alto,Alto,463
+Regimen actual,AMZN,XGBoost,Bajo,Bajo,32
+Regimen actual,AMZN,XGBoost,Bajo,Medio,16
+Regimen actual,AMZN,XGBoost,Bajo,Alto,0
+Regimen actual,AMZN,XGBoost,Medio,Bajo,6
+Regimen actual,AMZN,XGBoost,Medio,Medio,187
+Regimen actual,AMZN,XGBoost,Medio,Alto,21
+Regimen actual,AMZN,XGBoost,Alto,Bajo,0
+Regimen actual,AMZN,XGBoost,Alto,Medio,19
+Regimen actual,AMZN,XGBoost,Alto,Alto,468
+Regimen actual,AMZN,SVM,Bajo,Bajo,33
+Regimen actual,AMZN,SVM,Bajo,Medio,15
+Regimen actual,AMZN,SVM,Bajo,Alto,0
+Regimen actual,AMZN,SVM,Medio,Bajo,5
+Regimen actual,AMZN,SVM,Medio,Medio,197
+Regimen actual,AMZN,SVM,Medio,Alto,12
+Regimen actual,AMZN,SVM,Alto,Bajo,0
+Regimen actual,AMZN,SVM,Alto,Medio,41
+Regimen actual,AMZN,SVM,Alto,Alto,446
+Regimen actual,GOOGL,Persistencia,Bajo,Bajo,48
+Regimen actual,GOOGL,Persistencia,Bajo,Medio,8
+Regimen actual,GOOGL,Persistencia,Bajo,Alto,0
+Regimen actual,GOOGL,Persistencia,Medio,Bajo,8
+Regimen actual,GOOGL,Persistencia,Medio,Medio,110
+Regimen actual,GOOGL,Persistencia,Medio,Alto,16
+Regimen actual,GOOGL,Persistencia,Alto,Bajo,0
+Regimen actual,GOOGL,Persistencia,Alto,Medio,17
+Regimen actual,GOOGL,Persistencia,Alto,Alto,542
+Regimen actual,GOOGL,Regresion Logistica,Bajo,Bajo,41
+Regimen actual,GOOGL,Regresion Logistica,Bajo,Medio,15
+Regimen actual,GOOGL,Regresion Logistica,Bajo,Alto,0
+Regimen actual,GOOGL,Regresion Logistica,Medio,Bajo,2
+Regimen actual,GOOGL,Regresion Logistica,Medio,Medio,119
+Regimen actual,GOOGL,Regresion Logistica,Medio,Alto,13
+Regimen actual,GOOGL,Regresion Logistica,Alto,Bajo,0
+Regimen actual,GOOGL,Regresion Logistica,Alto,Medio,40
+Regimen actual,GOOGL,Regresion Logistica,Alto,Alto,519
+Regimen actual,GOOGL,Arbol de Decision,Bajo,Bajo,47
+Regimen actual,GOOGL,Arbol de Decision,Bajo,Medio,9
+Regimen actual,GOOGL,Arbol de Decision,Bajo,Alto,0
+Regimen actual,GOOGL,Arbol de Decision,Medio,Bajo,8
+Regimen actual,GOOGL,Arbol de Decision,Medio,Medio,110
+Regimen actual,GOOGL,Arbol de Decision,Medio,Alto,16
+Regimen actual,GOOGL,Arbol de Decision,Alto,Bajo,0
+Regimen actual,GOOGL,Arbol de Decision,Alto,Medio,17
+Regimen actual,GOOGL,Arbol de Decision,Alto,Alto,542
+Regimen actual,GOOGL,Random Forest,Bajo,Bajo,47
+Regimen actual,GOOGL,Random Forest,Bajo,Medio,9
+Regimen actual,GOOGL,Random Forest,Bajo,Alto,0
+Regimen actual,GOOGL,Random Forest,Medio,Bajo,8
+Regimen actual,GOOGL,Random Forest,Medio,Medio,112
+Regimen actual,GOOGL,Random Forest,Medio,Alto,14
+Regimen actual,GOOGL,Random Forest,Alto,Bajo,0
+Regimen actual,GOOGL,Random Forest,Alto,Medio,19
+Regimen actual,GOOGL,Random Forest,Alto,Alto,540
+Regimen actual,GOOGL,XGBoost,Bajo,Bajo,47
+Regimen actual,GOOGL,XGBoost,Bajo,Medio,9
+Regimen actual,GOOGL,XGBoost,Bajo,Alto,0
+Regimen actual,GOOGL,XGBoost,Medio,Bajo,8
+Regimen actual,GOOGL,XGBoost,Medio,Medio,111
+Regimen actual,GOOGL,XGBoost,Medio,Alto,15
+Regimen actual,GOOGL,XGBoost,Alto,Bajo,0
+Regimen actual,GOOGL,XGBoost,Alto,Medio,20
+Regimen actual,GOOGL,XGBoost,Alto,Alto,539
+Regimen actual,GOOGL,SVM,Bajo,Bajo,48
+Regimen actual,GOOGL,SVM,Bajo,Medio,7
+Regimen actual,GOOGL,SVM,Bajo,Alto,1
+Regimen actual,GOOGL,SVM,Medio,Bajo,5
+Regimen actual,GOOGL,SVM,Medio,Medio,115
+Regimen actual,GOOGL,SVM,Medio,Alto,14
+Regimen actual,GOOGL,SVM,Alto,Bajo,0
+Regimen actual,GOOGL,SVM,Alto,Medio,52
+Regimen actual,GOOGL,SVM,Alto,Alto,507
+Regimen actual,TSLA,Persistencia,Bajo,Bajo,49
+Regimen actual,TSLA,Persistencia,Bajo,Medio,8
+Regimen actual,TSLA,Persistencia,Bajo,Alto,0
+Regimen actual,TSLA,Persistencia,Medio,Bajo,8
+Regimen actual,TSLA,Persistencia,Medio,Medio,185
+Regimen actual,TSLA,Persistencia,Medio,Alto,20
+Regimen actual,TSLA,Persistencia,Alto,Bajo,0
+Regimen actual,TSLA,Persistencia,Alto,Medio,20
+Regimen actual,TSLA,Persistencia,Alto,Alto,459
+Regimen actual,TSLA,Regresion Logistica,Bajo,Bajo,51
+Regimen actual,TSLA,Regresion Logistica,Bajo,Medio,6
+Regimen actual,TSLA,Regresion Logistica,Bajo,Alto,0
+Regimen actual,TSLA,Regresion Logistica,Medio,Bajo,8
+Regimen actual,TSLA,Regresion Logistica,Medio,Medio,183
+Regimen actual,TSLA,Regresion Logistica,Medio,Alto,22
+Regimen actual,TSLA,Regresion Logistica,Alto,Bajo,0
+Regimen actual,TSLA,Regresion Logistica,Alto,Medio,21
+Regimen actual,TSLA,Regresion Logistica,Alto,Alto,458
+Regimen actual,TSLA,Arbol de Decision,Bajo,Bajo,42
+Regimen actual,TSLA,Arbol de Decision,Bajo,Medio,15
+Regimen actual,TSLA,Arbol de Decision,Bajo,Alto,0
+Regimen actual,TSLA,Arbol de Decision,Medio,Bajo,11
+Regimen actual,TSLA,Arbol de Decision,Medio,Medio,172
+Regimen actual,TSLA,Arbol de Decision,Medio,Alto,30
+Regimen actual,TSLA,Arbol de Decision,Alto,Bajo,0
+Regimen actual,TSLA,Arbol de Decision,Alto,Medio,33
+Regimen actual,TSLA,Arbol de Decision,Alto,Alto,446
+Regimen actual,TSLA,Random Forest,Bajo,Bajo,42
+Regimen actual,TSLA,Random Forest,Bajo,Medio,15
+Regimen actual,TSLA,Random Forest,Bajo,Alto,0
+Regimen actual,TSLA,Random Forest,Medio,Bajo,8
+Regimen actual,TSLA,Random Forest,Medio,Medio,185
+Regimen actual,TSLA,Random Forest,Medio,Alto,20
+Regimen actual,TSLA,Random Forest,Alto,Bajo,0
+Regimen actual,TSLA,Random Forest,Alto,Medio,20
+Regimen actual,TSLA,Random Forest,Alto,Alto,459
+Regimen actual,TSLA,XGBoost,Bajo,Bajo,48
+Regimen actual,TSLA,XGBoost,Bajo,Medio,9
+Regimen actual,TSLA,XGBoost,Bajo,Alto,0
+Regimen actual,TSLA,XGBoost,Medio,Bajo,8
+Regimen actual,TSLA,XGBoost,Medio,Medio,183
+Regimen actual,TSLA,XGBoost,Medio,Alto,22
+Regimen actual,TSLA,XGBoost,Alto,Bajo,0
+Regimen actual,TSLA,XGBoost,Alto,Medio,15
+Regimen actual,TSLA,XGBoost,Alto,Alto,464
+Regimen actual,TSLA,SVM,Bajo,Bajo,46
+Regimen actual,TSLA,SVM,Bajo,Medio,11
+Regimen actual,TSLA,SVM,Bajo,Alto,0
+Regimen actual,TSLA,SVM,Medio,Bajo,14
+Regimen actual,TSLA,SVM,Medio,Medio,171
+Regimen actual,TSLA,SVM,Medio,Alto,28
+Regimen actual,TSLA,SVM,Alto,Bajo,0
+Regimen actual,TSLA,SVM,Alto,Medio,20
+Regimen actual,TSLA,SVM,Alto,Alto,459
+Regimen prediccion 21,AAPL,Persistencia,Bajo,Bajo,93
+Regimen prediccion 21,AAPL,Persistencia,Bajo,Medio,102
+Regimen prediccion 21,AAPL,Persistencia,Bajo,Alto,16
+Regimen prediccion 21,AAPL,Persistencia,Medio,Bajo,89
+Regimen prediccion 21,AAPL,Persistencia,Medio,Medio,117
+Regimen prediccion 21,AAPL,Persistencia,Medio,Alto,83
+Regimen prediccion 21,AAPL,Persistencia,Alto,Bajo,8
+Regimen prediccion 21,AAPL,Persistencia,Alto,Medio,72
+Regimen prediccion 21,AAPL,Persistencia,Alto,Alto,162
+Regimen prediccion 21,AAPL,Regresion Logistica,Bajo,Bajo,25
+Regimen prediccion 21,AAPL,Regresion Logistica,Bajo,Medio,5
+Regimen prediccion 21,AAPL,Regresion Logistica,Bajo,Alto,181
+Regimen prediccion 21,AAPL,Regresion Logistica,Medio,Bajo,36
+Regimen prediccion 21,AAPL,Regresion Logistica,Medio,Medio,0
+Regimen prediccion 21,AAPL,Regresion Logistica,Medio,Alto,253
+Regimen prediccion 21,AAPL,Regresion Logistica,Alto,Bajo,11
+Regimen prediccion 21,AAPL,Regresion Logistica,Alto,Medio,0
+Regimen prediccion 21,AAPL,Regresion Logistica,Alto,Alto,231
+Regimen prediccion 21,AAPL,Arbol de Decision,Bajo,Bajo,73
+Regimen prediccion 21,AAPL,Arbol de Decision,Bajo,Medio,1
+Regimen prediccion 21,AAPL,Arbol de Decision,Bajo,Alto,137
+Regimen prediccion 21,AAPL,Arbol de Decision,Medio,Bajo,93
+Regimen prediccion 21,AAPL,Arbol de Decision,Medio,Medio,15
+Regimen prediccion 21,AAPL,Arbol de Decision,Medio,Alto,181
+Regimen prediccion 21,AAPL,Arbol de Decision,Alto,Bajo,38
+Regimen prediccion 21,AAPL,Arbol de Decision,Alto,Medio,3
+Regimen prediccion 21,AAPL,Arbol de Decision,Alto,Alto,201
+Regimen prediccion 21,AAPL,Random Forest,Bajo,Bajo,6
+Regimen prediccion 21,AAPL,Random Forest,Bajo,Medio,1
+Regimen prediccion 21,AAPL,Random Forest,Bajo,Alto,204
+Regimen prediccion 21,AAPL,Random Forest,Medio,Bajo,12
+Regimen prediccion 21,AAPL,Random Forest,Medio,Medio,17
+Regimen prediccion 21,AAPL,Random Forest,Medio,Alto,260
+Regimen prediccion 21,AAPL,Random Forest,Alto,Bajo,8
+Regimen prediccion 21,AAPL,Random Forest,Alto,Medio,1
+Regimen prediccion 21,AAPL,Random Forest,Alto,Alto,233
+Regimen prediccion 21,AAPL,XGBoost,Bajo,Bajo,15
+Regimen prediccion 21,AAPL,XGBoost,Bajo,Medio,16
+Regimen prediccion 21,AAPL,XGBoost,Bajo,Alto,180
+Regimen prediccion 21,AAPL,XGBoost,Medio,Bajo,33
+Regimen prediccion 21,AAPL,XGBoost,Medio,Medio,44
+Regimen prediccion 21,AAPL,XGBoost,Medio,Alto,212
+Regimen prediccion 21,AAPL,XGBoost,Alto,Bajo,14
+Regimen prediccion 21,AAPL,XGBoost,Alto,Medio,14
+Regimen prediccion 21,AAPL,XGBoost,Alto,Alto,214
+Regimen prediccion 21,AAPL,SVM,Bajo,Bajo,30
+Regimen prediccion 21,AAPL,SVM,Bajo,Medio,180
+Regimen prediccion 21,AAPL,SVM,Bajo,Alto,1
+Regimen prediccion 21,AAPL,SVM,Medio,Bajo,47
+Regimen prediccion 21,AAPL,SVM,Medio,Medio,192
+Regimen prediccion 21,AAPL,SVM,Medio,Alto,50
+Regimen prediccion 21,AAPL,SVM,Alto,Bajo,35
+Regimen prediccion 21,AAPL,SVM,Alto,Medio,100
+Regimen prediccion 21,AAPL,SVM,Alto,Alto,107
+Regimen prediccion 21,AMZN,Persistencia,Bajo,Bajo,4
+Regimen prediccion 21,AMZN,Persistencia,Bajo,Medio,32
+Regimen prediccion 21,AMZN,Persistencia,Bajo,Alto,12
+Regimen prediccion 21,AMZN,Persistencia,Medio,Bajo,36
+Regimen prediccion 21,AMZN,Persistencia,Medio,Medio,59
+Regimen prediccion 21,AMZN,Persistencia,Medio,Alto,112
+Regimen prediccion 21,AMZN,Persistencia,Alto,Bajo,8
+Regimen prediccion 21,AMZN,Persistencia,Alto,Medio,128
+Regimen prediccion 21,AMZN,Persistencia,Alto,Alto,351
+Regimen prediccion 21,AMZN,Regresion Logistica,Bajo,Bajo,0
+Regimen prediccion 21,AMZN,Regresion Logistica,Bajo,Medio,40
+Regimen prediccion 21,AMZN,Regresion Logistica,Bajo,Alto,8
+Regimen prediccion 21,AMZN,Regresion Logistica,Medio,Bajo,1
+Regimen prediccion 21,AMZN,Regresion Logistica,Medio,Medio,132
+Regimen prediccion 21,AMZN,Regresion Logistica,Medio,Alto,74
+Regimen prediccion 21,AMZN,Regresion Logistica,Alto,Bajo,33
+Regimen prediccion 21,AMZN,Regresion Logistica,Alto,Medio,203
+Regimen prediccion 21,AMZN,Regresion Logistica,Alto,Alto,251
+Regimen prediccion 21,AMZN,Arbol de Decision,Bajo,Bajo,17
+Regimen prediccion 21,AMZN,Arbol de Decision,Bajo,Medio,11
+Regimen prediccion 21,AMZN,Arbol de Decision,Bajo,Alto,20
+Regimen prediccion 21,AMZN,Arbol de Decision,Medio,Bajo,51
+Regimen prediccion 21,AMZN,Arbol de Decision,Medio,Medio,48
+Regimen prediccion 21,AMZN,Arbol de Decision,Medio,Alto,108
+Regimen prediccion 21,AMZN,Arbol de Decision,Alto,Bajo,88
+Regimen prediccion 21,AMZN,Arbol de Decision,Alto,Medio,155
+Regimen prediccion 21,AMZN,Arbol de Decision,Alto,Alto,244
+Regimen prediccion 21,AMZN,Random Forest,Bajo,Bajo,2
+Regimen prediccion 21,AMZN,Random Forest,Bajo,Medio,22
+Regimen prediccion 21,AMZN,Random Forest,Bajo,Alto,24
+Regimen prediccion 21,AMZN,Random Forest,Medio,Bajo,5
+Regimen prediccion 21,AMZN,Random Forest,Medio,Medio,44
+Regimen prediccion 21,AMZN,Random Forest,Medio,Alto,158
+Regimen prediccion 21,AMZN,Random Forest,Alto,Bajo,18
+Regimen prediccion 21,AMZN,Random Forest,Alto,Medio,67
+Regimen prediccion 21,AMZN,Random Forest,Alto,Alto,402
+Regimen prediccion 21,AMZN,XGBoost,Bajo,Bajo,1
+Regimen prediccion 21,AMZN,XGBoost,Bajo,Medio,17
+Regimen prediccion 21,AMZN,XGBoost,Bajo,Alto,30
+Regimen prediccion 21,AMZN,XGBoost,Medio,Bajo,4
+Regimen prediccion 21,AMZN,XGBoost,Medio,Medio,59
+Regimen prediccion 21,AMZN,XGBoost,Medio,Alto,144
+Regimen prediccion 21,AMZN,XGBoost,Alto,Bajo,36
+Regimen prediccion 21,AMZN,XGBoost,Alto,Medio,89
+Regimen prediccion 21,AMZN,XGBoost,Alto,Alto,362
+Regimen prediccion 21,AMZN,SVM,Bajo,Bajo,0
+Regimen prediccion 21,AMZN,SVM,Bajo,Medio,39
+Regimen prediccion 21,AMZN,SVM,Bajo,Alto,9
+Regimen prediccion 21,AMZN,SVM,Medio,Bajo,4
+Regimen prediccion 21,AMZN,SVM,Medio,Medio,120
+Regimen prediccion 21,AMZN,SVM,Medio,Alto,83
+Regimen prediccion 21,AMZN,SVM,Alto,Bajo,8
+Regimen prediccion 21,AMZN,SVM,Alto,Medio,190
+Regimen prediccion 21,AMZN,SVM,Alto,Alto,289
+Regimen prediccion 21,GOOGL,Persistencia,Bajo,Bajo,3
+Regimen prediccion 21,GOOGL,Persistencia,Bajo,Medio,1
+Regimen prediccion 21,GOOGL,Persistencia,Bajo,Alto,52
+Regimen prediccion 21,GOOGL,Persistencia,Medio,Bajo,20
+Regimen prediccion 21,GOOGL,Persistencia,Medio,Medio,39
+Regimen prediccion 21,GOOGL,Persistencia,Medio,Alto,68
+Regimen prediccion 21,GOOGL,Persistencia,Alto,Bajo,33
+Regimen prediccion 21,GOOGL,Persistencia,Alto,Medio,107
+Regimen prediccion 21,GOOGL,Persistencia,Alto,Alto,419
+Regimen prediccion 21,GOOGL,Regresion Logistica,Bajo,Bajo,0
+Regimen prediccion 21,GOOGL,Regresion Logistica,Bajo,Medio,17
+Regimen prediccion 21,GOOGL,Regresion Logistica,Bajo,Alto,39
+Regimen prediccion 21,GOOGL,Regresion Logistica,Medio,Bajo,0
+Regimen prediccion 21,GOOGL,Regresion Logistica,Medio,Medio,85
+Regimen prediccion 21,GOOGL,Regresion Logistica,Medio,Alto,42
+Regimen prediccion 21,GOOGL,Regresion Logistica,Alto,Bajo,0
+Regimen prediccion 21,GOOGL,Regresion Logistica,Alto,Medio,158
+Regimen prediccion 21,GOOGL,Regresion Logistica,Alto,Alto,401
+Regimen prediccion 21,GOOGL,Arbol de Decision,Bajo,Bajo,12
+Regimen prediccion 21,GOOGL,Arbol de Decision,Bajo,Medio,18
+Regimen prediccion 21,GOOGL,Arbol de Decision,Bajo,Alto,26
+Regimen prediccion 21,GOOGL,Arbol de Decision,Medio,Bajo,33
+Regimen prediccion 21,GOOGL,Arbol de Decision,Medio,Medio,68
+Regimen prediccion 21,GOOGL,Arbol de Decision,Medio,Alto,26
+Regimen prediccion 21,GOOGL,Arbol de Decision,Alto,Bajo,59
+Regimen prediccion 21,GOOGL,Arbol de Decision,Alto,Medio,155
+Regimen prediccion 21,GOOGL,Arbol de Decision,Alto,Alto,345
+Regimen prediccion 21,GOOGL,Random Forest,Bajo,Bajo,10
+Regimen prediccion 21,GOOGL,Random Forest,Bajo,Medio,39
+Regimen prediccion 21,GOOGL,Random Forest,Bajo,Alto,7
+Regimen prediccion 21,GOOGL,Random Forest,Medio,Bajo,29
+Regimen prediccion 21,GOOGL,Random Forest,Medio,Medio,85
+Regimen prediccion 21,GOOGL,Random Forest,Medio,Alto,13
+Regimen prediccion 21,GOOGL,Random Forest,Alto,Bajo,49
+Regimen prediccion 21,GOOGL,Random Forest,Alto,Medio,257
+Regimen prediccion 21,GOOGL,Random Forest,Alto,Alto,253
+Regimen prediccion 21,GOOGL,XGBoost,Bajo,Bajo,13
+Regimen prediccion 21,GOOGL,XGBoost,Bajo,Medio,39
+Regimen prediccion 21,GOOGL,XGBoost,Bajo,Alto,4
+Regimen prediccion 21,GOOGL,XGBoost,Medio,Bajo,35
+Regimen prediccion 21,GOOGL,XGBoost,Medio,Medio,82
+Regimen prediccion 21,GOOGL,XGBoost,Medio,Alto,10
+Regimen prediccion 21,GOOGL,XGBoost,Alto,Bajo,62
+Regimen prediccion 21,GOOGL,XGBoost,Alto,Medio,218
+Regimen prediccion 21,GOOGL,XGBoost,Alto,Alto,279
+Regimen prediccion 21,GOOGL,SVM,Bajo,Bajo,5
+Regimen prediccion 21,GOOGL,SVM,Bajo,Medio,37
+Regimen prediccion 21,GOOGL,SVM,Bajo,Alto,14
+Regimen prediccion 21,GOOGL,SVM,Medio,Bajo,23
+Regimen prediccion 21,GOOGL,SVM,Medio,Medio,77
+Regimen prediccion 21,GOOGL,SVM,Medio,Alto,27
+Regimen prediccion 21,GOOGL,SVM,Alto,Bajo,22
+Regimen prediccion 21,GOOGL,SVM,Alto,Medio,327
+Regimen prediccion 21,GOOGL,SVM,Alto,Alto,210
+Regimen prediccion 21,TSLA,Persistencia,Bajo,Bajo,6
+Regimen prediccion 21,TSLA,Persistencia,Bajo,Medio,25
+Regimen prediccion 21,TSLA,Persistencia,Bajo,Alto,26
+Regimen prediccion 21,TSLA,Persistencia,Medio,Bajo,15
+Regimen prediccion 21,TSLA,Persistencia,Medio,Medio,92
+Regimen prediccion 21,TSLA,Persistencia,Medio,Alto,106
+Regimen prediccion 21,TSLA,Persistencia,Alto,Bajo,36
+Regimen prediccion 21,TSLA,Persistencia,Alto,Medio,92
+Regimen prediccion 21,TSLA,Persistencia,Alto,Alto,344
+Regimen prediccion 21,TSLA,Regresion Logistica,Bajo,Bajo,4
+Regimen prediccion 21,TSLA,Regresion Logistica,Bajo,Medio,0
+Regimen prediccion 21,TSLA,Regresion Logistica,Bajo,Alto,53
+Regimen prediccion 21,TSLA,Regresion Logistica,Medio,Bajo,14
+Regimen prediccion 21,TSLA,Regresion Logistica,Medio,Medio,0
+Regimen prediccion 21,TSLA,Regresion Logistica,Medio,Alto,199
+Regimen prediccion 21,TSLA,Regresion Logistica,Alto,Bajo,23
+Regimen prediccion 21,TSLA,Regresion Logistica,Alto,Medio,5
+Regimen prediccion 21,TSLA,Regresion Logistica,Alto,Alto,444
+Regimen prediccion 21,TSLA,Arbol de Decision,Bajo,Bajo,6
+Regimen prediccion 21,TSLA,Arbol de Decision,Bajo,Medio,19
+Regimen prediccion 21,TSLA,Arbol de Decision,Bajo,Alto,32
+Regimen prediccion 21,TSLA,Arbol de Decision,Medio,Bajo,27
+Regimen prediccion 21,TSLA,Arbol de Decision,Medio,Medio,74
+Regimen prediccion 21,TSLA,Arbol de Decision,Medio,Alto,112
+Regimen prediccion 21,TSLA,Arbol de Decision,Alto,Bajo,30
+Regimen prediccion 21,TSLA,Arbol de Decision,Alto,Medio,126
+Regimen prediccion 21,TSLA,Arbol de Decision,Alto,Alto,316
+Regimen prediccion 21,TSLA,Random Forest,Bajo,Bajo,6
+Regimen prediccion 21,TSLA,Random Forest,Bajo,Medio,0
+Regimen prediccion 21,TSLA,Random Forest,Bajo,Alto,51
+Regimen prediccion 21,TSLA,Random Forest,Medio,Bajo,30
+Regimen prediccion 21,TSLA,Random Forest,Medio,Medio,7
+Regimen prediccion 21,TSLA,Random Forest,Medio,Alto,176
+Regimen prediccion 21,TSLA,Random Forest,Alto,Bajo,34
+Regimen prediccion 21,TSLA,Random Forest,Alto,Medio,1
+Regimen prediccion 21,TSLA,Random Forest,Alto,Alto,437
+Regimen prediccion 21,TSLA,XGBoost,Bajo,Bajo,5
+Regimen prediccion 21,TSLA,XGBoost,Bajo,Medio,17
+Regimen prediccion 21,TSLA,XGBoost,Bajo,Alto,35
+Regimen prediccion 21,TSLA,XGBoost,Medio,Bajo,18
+Regimen prediccion 21,TSLA,XGBoost,Medio,Medio,64
+Regimen prediccion 21,TSLA,XGBoost,Medio,Alto,131
+Regimen prediccion 21,TSLA,XGBoost,Alto,Bajo,27
+Regimen prediccion 21,TSLA,XGBoost,Alto,Medio,81
+Regimen prediccion 21,TSLA,XGBoost,Alto,Alto,364
+Regimen prediccion 21,TSLA,SVM,Bajo,Bajo,7
+Regimen prediccion 21,TSLA,SVM,Bajo,Medio,0
+Regimen prediccion 21,TSLA,SVM,Bajo,Alto,50
+Regimen prediccion 21,TSLA,SVM,Medio,Bajo,37
+Regimen prediccion 21,TSLA,SVM,Medio,Medio,0
+Regimen prediccion 21,TSLA,SVM,Medio,Alto,176
+Regimen prediccion 21,TSLA,SVM,Alto,Bajo,48
+Regimen prediccion 21,TSLA,SVM,Alto,Medio,0
+Regimen prediccion 21,TSLA,SVM,Alto,Alto,424

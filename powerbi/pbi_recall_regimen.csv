@@ -1,0 +1,37 @@
+﻿Horizonte,Modelo,Regimen,Recall_Promedio
+Regimen actual,Persistencia,Bajo,0.8733
+Regimen actual,Persistencia,Medio,0.869
+Regimen actual,Persistencia,Alto,0.9585
+Regimen actual,Regresion Logistica,Bajo,0.8196
+Regimen actual,Regresion Logistica,Medio,0.8773
+Regimen actual,Regresion Logistica,Alto,0.9482
+Regimen actual,Arbol de Decision,Bajo,0.8393
+Regimen actual,Arbol de Decision,Medio,0.8543
+Regimen actual,Arbol de Decision,Alto,0.9487
+Regimen actual,Random Forest,Bajo,0.8225
+Regimen actual,Random Forest,Medio,0.8806
+Regimen actual,Random Forest,Alto,0.9546
+Regimen actual,XGBoost,Bajo,0.8216
+Regimen actual,XGBoost,Medio,0.8706
+Regimen actual,XGBoost,Alto,0.9583
+Regimen actual,SVM,Bajo,0.7775
+Regimen actual,SVM,Medio,0.8696
+Regimen actual,SVM,Alto,0.921
+Regimen prediccion 21,Persistencia,Bajo,0.1707
+Regimen prediccion 21,Persistencia,Medio,0.3572
+Regimen prediccion 21,Persistencia,Alto,0.7171
+Regimen prediccion 21,Regresion Logistica,Bajo,0.0472
+Regimen prediccion 21,Regresion Logistica,Medio,0.3267
+Regimen prediccion 21,Regresion Logistica,Alto,0.782
+Regimen prediccion 21,Arbol de Decision,Bajo,0.2549
+Regimen prediccion 21,Arbol de Decision,Medio,0.2917
+Regimen prediccion 21,Arbol de Decision,Alto,0.6546
+Regimen prediccion 21,Random Forest,Bajo,0.0885
+Regimen prediccion 21,Random Forest,Medio,0.2434
+Regimen prediccion 21,Random Forest,Alto,0.7917
+Regimen prediccion 21,XGBoost,Bajo,0.1029
+Regimen prediccion 21,XGBoost,Medio,0.3459
+Regimen prediccion 21,XGBoost,Alto,0.7245
+Regimen prediccion 21,SVM,Bajo,0.0886
+Regimen prediccion 21,SVM,Medio,0.4626
+Regimen prediccion 21,SVM,Alto,0.5774

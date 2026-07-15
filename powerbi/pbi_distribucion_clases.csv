@@ -1,0 +1,25 @@
+﻿Horizonte,Activo,Regimen,Conteo_Test,Porcentaje
+Regimen actual,AAPL,Bajo,211,28.2
+Regimen actual,AAPL,Medio,291,38.9
+Regimen actual,AAPL,Alto,247,33.0
+Regimen actual,AMZN,Bajo,48,6.4
+Regimen actual,AMZN,Medio,214,28.6
+Regimen actual,AMZN,Alto,487,65.0
+Regimen actual,GOOGL,Bajo,56,7.5
+Regimen actual,GOOGL,Medio,134,17.9
+Regimen actual,GOOGL,Alto,559,74.6
+Regimen actual,TSLA,Bajo,57,7.6
+Regimen actual,TSLA,Medio,213,28.4
+Regimen actual,TSLA,Alto,479,64.0
+Regimen prediccion 21,AAPL,Bajo,211,28.4
+Regimen prediccion 21,AAPL,Medio,289,38.9
+Regimen prediccion 21,AAPL,Alto,242,32.6
+Regimen prediccion 21,AMZN,Bajo,48,6.5
+Regimen prediccion 21,AMZN,Medio,207,27.9
+Regimen prediccion 21,AMZN,Alto,487,65.6
+Regimen prediccion 21,GOOGL,Bajo,56,7.5
+Regimen prediccion 21,GOOGL,Medio,127,17.1
+Regimen prediccion 21,GOOGL,Alto,559,75.3
+Regimen prediccion 21,TSLA,Bajo,57,7.7
+Regimen prediccion 21,TSLA,Medio,213,28.7
+Regimen prediccion 21,TSLA,Alto,472,63.6
